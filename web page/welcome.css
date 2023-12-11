@@ -1,0 +1,27 @@
+body{
+    
+    background-image: url(pexels-ella-olsson-1640774.jpg);
+    border-image-slice: fill;
+    filter: blur(background-image);
+}
+image{
+    border: 1px;
+ border-radius: 4px ;
+ padding: 5px;
+ width: 150px;
+}
+h1{
+    color:rgb(0, 21, 255);
+    grid-row: auto;
+    box-shadow: 10px;
+}
+h3
+{
+    color: rgb(1, 3, 5);
+    background-color: rgb(13, 50, 231);
+}
+marque
+{
+    border-color: burlywood;
+
+}
